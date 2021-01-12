@@ -1,0 +1,5 @@
+#Fate Client injector config file
+customProcName=false
+delaystr=5
+dllPath=C:\Users\Fligger\Source\Repos\FateClient-private\x64\Debug\Fate Client.dll
+procName=minecraft.windows.exe
