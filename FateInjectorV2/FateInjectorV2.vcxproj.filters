@@ -65,16 +65,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="icon\icon.xpm" />
-    <None Include="icon\icon2.xpm" />
-  </ItemGroup>
-  <ItemGroup>
-    <ResourceCompile Include="FateInjectorV2.rc">
-      <Filter>Resource Files</Filter>
-    </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
     <Image Include="icon\icon.ico">
       <Filter>Resource Files</Filter>
     </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="FateInjector.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
   </ItemGroup>
 </Project>

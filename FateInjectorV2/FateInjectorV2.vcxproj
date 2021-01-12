@@ -22,8 +22,9 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{58e85615-5ab9-4d3a-901b-637e3f7504f7}</ProjectGuid>
-    <RootNamespace>FateInjectorV2</RootNamespace>
+    <RootNamespace>FateInjector</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>FateInjector</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -184,10 +185,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="icon\icon.xpm" />
-    <None Include="icon\icon2.xpm" />
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="FateInjectorV2.rc" />
+    <ResourceCompile Include="FateInjector.rc" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="icon\icon.ico" />
