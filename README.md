@@ -1,7 +1,7 @@
 # Fate Injector
 The Fate Client themed UWP app dll Injector.
 
-Latest Injector [Download](https://github.com/fligger/FateInjector/releases/latest/FateInjector.exe)
+Latest Injector [Download](https://github.com/fligger/FateInjector/releases/latest/download/FateInjector.exe)
 
 Get Fate Client dll on the Fate Client [Repository](https://github.com/fligger/FateClient)
 
