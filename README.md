@@ -12,7 +12,7 @@ Get Fate Client DLL on the Fate Client [Repository](https://github.com/fligger/F
 - Auto Inject
 - Automaticly adds the "All Applications Packages" Permission to the dll so UWP apps can load the dll.
 
-Youtube Devlog (Version 0.9) [here](https://www.youtube.com/watch?v=_50QBD4pKEs&list=PLVRYtYhvPXj5J6IwIFAAFO8CrpgmsLFki&index=4)
+Scuffed Youtube Devlog (Version 0.9) [here](https://www.youtube.com/watch?v=_50QBD4pKEs&list=PLVRYtYhvPXj5J6IwIFAAFO8CrpgmsLFki&index=4)
 
 ## Troubleshooting:
 VCRUNTIME140_1.dll not found:
@@ -21,4 +21,4 @@ VCRUNTIME140_1.dll not found:
 3. Run the exe and install it
 4. Fate Injector should open now
 
-#### This project uses [wxWidgets}(https://wxwidgets.org).
+#### This project uses [wxWidgets](https://wxwidgets.org).
