@@ -1,9 +1,9 @@
 # Fate Injector
-The Fate Client themed UWP app dll Injector.
+The Fate Client themed UWP app DLL Injector.
 
 Latest Injector [Download](https://github.com/fligger/FateInjector/releases/latest/download/FateInjector.exe)
 
-Get Fate Client dll on the Fate Client [Repository](https://github.com/fligger/FateClient)
+Get Fate Client DLL on the Fate Client [Repository](https://github.com/fligger/FateClient)
 
 #### Because PC viruses may use simular code to infect computers this might get reconized as a virus. 
 #### BUT this injector does not contain any viruses! Feel free to check the source!
@@ -21,4 +21,4 @@ VCRUNTIME140_1.dll not found:
 3. Run the exe and install it
 4. Fate Injector should open now
 
-#### This project uses wxWidgets [version 3.1.4](https://wxwidgets.org/news/2020/07/wxwidgets-3.1.4-released/).
+#### This project uses [wxWidgets}(https://wxwidgets.org).

@@ -1,0 +1,10 @@
+// Microsoft Visual C++ Compiler icon
+// first defined item will be used for binary item
+
+#define IDI_ICON1 101
+
+IDI_ICON1 ICON "icon\\icon.ico"
+
+
+
+
