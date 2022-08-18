@@ -6,3 +6,5 @@ inject.cpp
 pch.cpp
 taskBarIcon.cpp
 icon.rc)
+
+target_precompile_headers(fateInjector PRIVATE "pch.h")
